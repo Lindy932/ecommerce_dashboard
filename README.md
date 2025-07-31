@@ -22,7 +22,6 @@ This Power BI dashboard simulates how a data/business analyst would support an e
 | **Marketing**       | Which segments/categories drive the most revenue and loyalty? |
 | **Leadership**      | Are we growing month over month? How healthy is the business overall? |
 
----
 
 ## 📊 Dashboard Pages
 
