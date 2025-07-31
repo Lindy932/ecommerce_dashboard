@@ -108,15 +108,17 @@ This Power BI dashboard simulates how a data/business analyst would support an e
 ## 📸 Sample Dashboard Screenshots
 
 <p align="center">
-  <img src="images/dashboard_overview.png" alt="Executive Overview Dashboard" width="800"/>
+  <img width="980" height="543" alt="Screen Shot 2025-07-31 at 2 29 18 AM" src="https://github.com/user-attachments/assets/4ed45d50-65d9-430d-99cd-7eadfd4f1172" />
 </p>
 
 <p align="center">
-  <img src="images/logistics_delivery.png" alt="Logistics Dashboard" width="800"/>
+  <img width="980" height="540" alt="Screen Shot 2025-07-31 at 2 29 57 AM" src="https://github.com/user-attachments/assets/90fe270b-78c9-45e8-99a9-34655447e002" />
+
 </p>
 
 <p align="center">
-  <img src="images/churn_analysis.png" alt="Churn Risk Page" width="800"/>
+ <img width="990" height="535" alt="Screen Shot 2025-07-31 at 2 30 25 AM" src="https://github.com/user-attachments/assets/8ded6a54-0837-423f-90d7-ab29fe44483c" />
+
 </p>
 
 
