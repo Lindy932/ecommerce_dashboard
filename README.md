@@ -31,7 +31,6 @@ This Power BI dashboard simulates how a data/business analyst would support an e
 - Orders by Region (Donut)
 - Order Lifecycle (Funnel)
 
-> 📈 Provides leadership a quick health check of the business.
 
 ---
 
@@ -42,7 +41,7 @@ This Power BI dashboard simulates how a data/business analyst would support an e
 - Freight vs. Weight (Scatter)
 - Seller Delay Metrics (Matrix)
 
-> 🔍 Ideal for fulfillment and operations teams to troubleshoot logistics.
+
 
 ---
 
@@ -53,7 +52,7 @@ This Power BI dashboard simulates how a data/business analyst would support an e
 - Review by Category (Bar)
 - Customer Detail Table (High-risk focus)
 
-> 🤝 Supports customer experience teams in retention strategy.
+
 
 ---
 
@@ -64,7 +63,6 @@ This Power BI dashboard simulates how a data/business analyst would support an e
 - Forecasting Demand (Line)
 - Category Metrics Table
 
-> 🧠 Supports inventory and product planning decisions.
 
 ---
 
