@@ -45,16 +45,6 @@ This Power BI dashboard simulates how a data/business analyst would support an e
 
 ---
 
-### 3. 💔 Customer Retention & Churn
-- Churn Risk Segmentation (Bar)
-- Monthly Repeat Buyers (Line)
-- Review Score Heatmap by Region (Map)
-- Review by Category (Bar)
-- Customer Detail Table (High-risk focus)
-
-
-
----
 
 ### 4. 📦 Product & Category Insights
 - Revenue by Category (Treemap)
@@ -65,6 +55,18 @@ This Power BI dashboard simulates how a data/business analyst would support an e
 
 
 ---
+
+### 3. 💔 Customer Retention & Churn
+- Churn Risk Segmentation (Bar)
+- Monthly Buyers (Line)
+- Review Score Heatmap by Region (Map)
+- Review by Category (Bar)
+- Customer Detail Table (High-risk focus)
+
+
+
+---
+
 
 ## 🔎 Global Filters (Slicers)
 - Date Range  
@@ -110,14 +112,18 @@ This Power BI dashboard simulates how a data/business analyst would support an e
 </p>
 
 <p align="center">
-  <img width="980" height="540" alt="Screen Shot 2025-07-31 at 2 29 57 AM" src="https://github.com/user-attachments/assets/90fe270b-78c9-45e8-99a9-34655447e002" />
+ <img width="980" height="543" alt="Screen Shot 2025-08-05 at 1 43 13 AM" src="https://github.com/user-attachments/assets/682602ee-54c3-4ccf-a88c-6feca33ef6bb" />
+
 
 </p>
 
 <p align="center">
- <img width="990" height="535" alt="Screen Shot 2025-07-31 at 2 30 25 AM" src="https://github.com/user-attachments/assets/8ded6a54-0837-423f-90d7-ab29fe44483c" />
+ <img width="980" height="540" alt="Screen Shot 2025-07-31 at 2 30 25 AM" src="https://github.com/user-attachments/assets/8ded6a54-0837-423f-90d7-ab29fe44483c" />
 
 </p>
 
+<p align="center">
+<img width="980" height="540" alt="Screen Shot 2025-08-05 at 1 40 49 AM" src="https://github.com/user-attachments/assets/db249c1b-e2e3-435a-8e90-7746490b489e" />
+</p>
 
 
