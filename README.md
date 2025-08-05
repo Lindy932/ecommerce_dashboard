@@ -26,7 +26,7 @@ This Power BI dashboard simulates how a data/business analyst would support an e
 ## 📊 Dashboard Pages
 
 ### 1. ✅ Executive Overview
-- KPIs: Total Orders, % Delayed, Avg Delivery Time, Repeat Rate
+- KPIs: Total Orders, % Delayed, Avg Delivery Time, Delivery Success Rate
 - Monthly Order Trend (Line)
 - Orders by Region (Donut)
 - Order Lifecycle (Funnel)
